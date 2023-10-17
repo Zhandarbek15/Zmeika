@@ -1,0 +1,17 @@
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\bin\Debug\net6.0\Zmei.exe
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\bin\Debug\net6.0\Zmei.deps.json
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\bin\Debug\net6.0\Zmei.runtimeconfig.json
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\bin\Debug\net6.0\Zmei.dll
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\bin\Debug\net6.0\Zmei.pdb
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\obj\Debug\net6.0\Zmei.csproj.AssemblyReference.cache
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\obj\Debug\net6.0\Zmei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\obj\Debug\net6.0\Zmei.AssemblyInfoInputs.cache
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\obj\Debug\net6.0\Zmei.AssemblyInfo.cs
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\obj\Debug\net6.0\Zmei.csproj.CoreCompileInputs.cache
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\obj\Debug\net6.0\Zmei.csproj.CopyComplete
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\obj\Debug\net6.0\Zmei.dll
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\obj\Debug\net6.0\refint\Zmei.dll
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\obj\Debug\net6.0\Zmei.pdb
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\obj\Debug\net6.0\Zmei.genruntimeconfig.cache
+C:\Users\Жандарбек\.progekts\.Консоль\Zmei\obj\Debug\net6.0\ref\Zmei.dll

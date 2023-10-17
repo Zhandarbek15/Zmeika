@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QTQitcKGSMqnDC1vN1coHCKE4Ekxr6sQj05ita/ZbmpR7P0R5iI6kbWks4YVKzst4Mp2n2XXaW5HiwvSn+H/ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Жандарбек\\.progekts\\.Консоль\\Zmei\\Zmei.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Жандарбек\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
